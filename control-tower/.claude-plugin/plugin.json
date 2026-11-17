@@ -1,0 +1,6 @@
+{
+  "name": "control-tower",
+  "version": "0.2.1",
+  "description": "Routes subagents to the right model, and meters context with a 70% warning",
+  "types": "./types/index.d.ts"
+}
